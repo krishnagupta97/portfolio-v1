@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
-              </div>
-              <h3>2020</h3>
-            </div>
-            <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
-              </div>
-              <h3>2021</h3>
-            </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Video editor & Graphic Designer</h4>
+                <h5>Laburnum Developers Pvt. Ltd</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Currently working as a Video editor & Graphic Designer, creating engaging visual content and delivering high-quality video productions and graphic designs for various projects.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Video editor & Graphic Designer</h4>
+                <h5>Realty Smartz Pvt. Ltd</h5>
+              </div>
+              <h3>2023-2025</h3>
+            </div>
+            <p>
+              Worked as a Video editor & Graphic Designer for 2 years and 3 months, creating compelling visual content for real estate marketing, including promotional videos, social media content, and graphic design materials.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Video editor & Graphic Designer</h4>
+                <h5>Parksmart Pvt. Ltd</h5>
+              </div>
+              <h3>2023</h3>
+            </div>
+            <p>
+              Started career as an intern Video editor & Graphic Designer for 3 months, learning professional video editing techniques and graphic design principles while working on various client projects.
             </p>
           </div>
         </div>

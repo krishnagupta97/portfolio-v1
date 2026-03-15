@@ -1,9 +1,9 @@
 import {
-  FaGithub,
   FaInstagram,
   FaLinkedinIn,
   FaXTwitter,
 } from "react-icons/fa6";
+import { FaGoogleDrive } from "react-icons/fa";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
@@ -60,8 +60,8 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/rajeshchityal" target="_blank">
-            <FaGithub />
+          <a href="https://drive.google.com/drive/folders/1QkW4aQm46aGqI4vlH6QIBBOUv_wT85wy" target="_blank" title="Demo Drive">
+            <FaGoogleDrive />
           </a>
         </span>
         <span>

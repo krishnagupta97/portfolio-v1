@@ -87,22 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>VIDEO EDITING</h3>
+              <h4>Visual Storytelling</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Creating compelling video content that tells stories visually. From YouTube videos to product showcases, I bring ideas to life through professional editing and motion graphics.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Premiere Pro</div>
+                <div className="what-tags">After Effects</div>
+                <div className="what-tags">Motion Graphics</div>
+                <div className="what-tags">Youtube Videos</div>
+                <div className="what-tags">Long Form</div>
+                <div className="what-tags">Short Form</div>
+                <div className="what-tags">Product Videos</div>
+                <div className="what-tags">Advertisement</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>GRAPHIC DESIGN</h3>
+              <h4>Creative Visual Solutions</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Designing eye-catching graphics and visual content. From social media graphics to marketing materials, I create designs that communicate effectively and engage audiences.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Figma</div>
+                <div className="what-tags">Photoshop</div>
+                <div className="what-tags">Graphic Design</div>
+                <div className="what-tags">Brand Identity</div>
+                <div className="what-tags">Social Media</div>
+                <div className="what-tags">Marketing Materials</div>
+                <div className="what-tags">Visual Communication</div>
+                <div className="what-tags">Creative Design</div>
               </div>
               <div className="what-arrow"></div>
             </div>
