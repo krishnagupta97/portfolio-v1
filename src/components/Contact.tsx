@@ -60,7 +60,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Krishn Gupta</span>
+              Designed and Developed <br /> by <span>Krishna Gupta</span>
             </h2>
             <h5>
               <MdCopyright /> 2025
